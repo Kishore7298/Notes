@@ -17,6 +17,10 @@ Welcome! This index provides quick access to all Kafka notes in this collection.
 11. [Producer Compression Tuning](Kafka/11.ProducerCompressionTuning.md)
 12. [Batch Size & linger.ms on Producer](Kafka/12.BatchSizeLingermsOnProducer.md)
 13. [Message Size & Count Impact on Producer](Kafka/13.MessageSizeCountImpactOnProducer.md)
+14. [Effect of Record Count on Kafka Producer Throughput and Latency](Kafka/14.KafkaConsumerPerformanceSetup.md)
+15. [Tuning Kafka Consumer Fetch Bytes and Wait Time](Kafka/15.KafkaConsumerFetchByteWaitTime.md)
+16. [Tuning Session Timeout and Heartbeat Interval in Kafka Consumer](Kafka/16.KafkaConsumerSessions.md)
+17. [Tuning Max Poll Interval and Max Poll Records in Kafka Consumer](Kafka/17.KafkaConsumerPoll.md)
 
 ---
 
