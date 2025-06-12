@@ -9,6 +9,7 @@ Welcome! This index provides quick access to all Kafka notes in this collection.
 3. [Kafka Optimization Theorem](Kafka/03.KafkaOptimizationTheorem.md)
 4. [End-to-End Latency in Kafka](Kafka/04.EndToEndLatency.md)
 5. [Creating and Testing a Topic](Kafka/05.TopicProducerConsumerSetup.md)
+## Producer optimisations
 6. [Broker Setup](Kafka/06.BrokerSetup.md)
 7. [Basic Producer Performance Tests](Kafka/07.BasicPerfTests.md)
 8. [Effect of Partitioning on Producers](Kafka/08.EffectOfPartitioningOnProducers.md)
@@ -18,9 +19,14 @@ Welcome! This index provides quick access to all Kafka notes in this collection.
 12. [Batch Size & linger.ms on Producer](Kafka/12.BatchSizeLingermsOnProducer.md)
 13. [Message Size & Count Impact on Producer](Kafka/13.MessageSizeCountImpactOnProducer.md)
 14. [Effect of Record Count on Kafka Producer Throughput and Latency](Kafka/14.KafkaConsumerPerformanceSetup.md)
+## Consumer optimisations
 15. [Tuning Kafka Consumer Fetch Bytes and Wait Time](Kafka/15.KafkaConsumerFetchByteWaitTime.md)
 16. [Tuning Session Timeout and Heartbeat Interval in Kafka Consumer](Kafka/16.KafkaConsumerSessions.md)
 17. [Tuning Max Poll Interval and Max Poll Records in Kafka Consumer](Kafka/17.KafkaConsumerPoll.md)
+## Broker optimisations
+18. [Kafka End-to-End Latency with Replication](Kafka/18.KafkaEndToEndLatencySetup.md)
+19. [Kafka Throughput Tuning](Kafka/19.KafkaBrokerThroughputTuning.md)
+20. [Kafka Log Retention Tuning](Kafka/20.KafkaLogRetention.md)
 
 ---
 
