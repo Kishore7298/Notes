@@ -14,3 +14,8 @@ Welcome to the AWS learning journey! This index provides easy navigation through
 5. [IAM Policies](AWSCertifiedDeveloperAssociate/05.IAMPolicies.md)
 6. [IAM MFA](AWSCertifiedDeveloperAssociate/06.IAMMFA.md)
 7. [AWS Access Methods](AWSCertifiedDeveloperAssociate/07.AWSAccess.md)
+8. [IAM Roles](AWSCertifiedDeveloperAssociate/08.IAMRoles.md)
+9. [IAM Security Tools](AWSCertifiedDeveloperAssociate/09.IAMSecurityTools.md)
+10. [IAM Best Practices](AWSCertifiedDeveloperAssociate/10.IAMBestPractices.md)
+11. [IAM Shared Responsibility Model](AWSCertifiedDeveloperAssociate/11.IAMSharedResponsibilityModel.md)
+12. [IAM Summary](AWSCertifiedDeveloperAssociate/12.IAMSummary.md)
