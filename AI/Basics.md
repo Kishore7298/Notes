@@ -1462,3 +1462,6 @@ And internally:
                   ▼
             Next token
 ```
+
+---
+[Index](INDEX.md) | [Next](AICourseInterviewReady/01.Intro/01.UseCase.md)

@@ -4,6 +4,12 @@ A comprehensive collection of learning notes organized by topic with easy naviga
 
 ## 📖 Available Topics
 
+### [AI](AI/INDEX.md)
+AI fundamentals and interview-ready course notes covering vectors, LLMs, and practical use cases.
+- Neural networks & transformers basics
+- Vectors, vector DBs, and LLM architecture
+- [Start reading →](AI/INDEX.md)
+
 ### [AWS](AWS/INDEX.md)
 AWS Certified Developer Associate course notes covering IAM, EC2, EBS, EFS, and more.
 - 26 comprehensive lessons
